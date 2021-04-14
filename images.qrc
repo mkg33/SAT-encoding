@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/src">
+        <file>camping.jpg</file>
+        <file>tree.png</file>
+        <file>tent.png</file>
+        <file>back.png</file>
+        <file>night.jpg</file>
+    </qresource>
+</RCC>
